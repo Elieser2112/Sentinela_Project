@@ -10,4 +10,7 @@
 
 5. Integridade Estrutural: Onde existir pasta na origem, existe pasta no destino. A ordem técnica e lógica é o reflexo da ordem mental.
 
-  
+### Próximos Passos ###
+- Testar a conexão ssh direto com o note
+- Fazer o módulo comparador
+- Refinar
